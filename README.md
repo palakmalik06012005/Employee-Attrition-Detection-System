@@ -81,6 +81,6 @@ The dataset includes:
 1️⃣ Install dependencies:
 
 
-## 💡 Made by Anuj Kumar
+## 💡 Made by palak malik
 
-Check out more of my work: [GitHub Profile](https://github.com/anujk13) 🌟
+Check out more of my work: [GitHub Profile](https://github.com/palakmalik06012005) 🌟
